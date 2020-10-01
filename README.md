@@ -1,2 +1,6 @@
 # hello-world
-Just another repository
+
+
+I am Nik 
+
+Cholakov, an enthusiast...
